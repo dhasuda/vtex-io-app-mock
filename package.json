@@ -1,0 +1,11 @@
+{
+  "name": "vtex-io-app-mock",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/dhasuda/vtex-io-app-mock.git",
+  "author": "vtex",
+  "license": "MIT",
+  "engines": {
+    "node-sdk": "0.x"
+  }
+}
